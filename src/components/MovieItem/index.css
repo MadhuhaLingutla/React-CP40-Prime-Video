@@ -1,0 +1,34 @@
+/* Write your CSS here */
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto';
+}
+.movie-item-container {
+}
+.trigger-button {
+  background-color: transparent;
+  border: none;
+}
+.popup-content {
+  border-radius: 10px;
+}
+.thumbnail-image {
+}
+.close-button {
+  background-color: transparent;
+  border: none;
+  align-self: flex-end;
+}
+.popup-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.close-icon {
+}
+.video-container {
+  flex-grow: 1;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
